@@ -1,0 +1,8 @@
+Fibonacci number at position 4 is: 3
+Empty line.
+Invalid number: rt
+Fibonacci number at position 3 is: 2
+Fibonacci number at position 7 is: 13
+Fibonacci number at position 8 is: 21
+Fibonacci number at position 5 is: 5
+Negative number.
